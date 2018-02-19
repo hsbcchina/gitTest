@@ -1,2 +1,2 @@
-this is a git megir test
+this is first commit code
 This is second commit code
